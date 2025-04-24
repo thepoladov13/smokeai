@@ -2,11 +2,11 @@
   "songs": [
     {
       "id": "1",
-      "title": "bad guy ",
-      "artist": "Billie Eilish",
-      "duration": 191,
-      "albumArt": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
-      "musicUrl": "https://eu.hitmo-top.com/get/music/20190330/Billie_Eilish_-_bad_guy_63154737.mp3",
+      "title": "Test Song ",
+      "artist": "Helix",
+      "duration": 320,
+      "albumArt": null,
+      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
       "is_downloaded": false
     },
     {
