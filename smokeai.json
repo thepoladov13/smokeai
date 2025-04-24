@@ -1,31 +1,436 @@
 {
-  "songs": [
-    {
-      "id": "sh1",
-      "title": "SoundHelix Song 1",
-      "artist": "SoundHelix",
-      "duration": 221,
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-      "album_art": "music.note.list",
-      "is_downloaded": false
-    },
-    {
-      "id": "sh8",
-      "title": "SoundHelix Song 8",
-      "artist": "SoundHelix",
-      "duration": 293,
-      "music_url": "https://eu.hitmo-top.com/get/music/20190330/Billie_Eilish_-_bad_guy_63154737.mp3",
-      "album_art": null,
-      "is_downloaded": true
-    },
-    {
-      "id": "sh15",
-      "title": "SoundHelix Song 15",
-      "artist": "SoundHelix",
-      "duration": 248,
-      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
-      "album_art": "waveform.path.ecg",
-      "is_downloaded": false
-    }
-  ]
+    "songs": [
+        {
+            "id": "63154737",
+            "title": "bad guy",
+            "artist": "Billie Eilish",
+            "duration": 192,
+            "music_url": "https://eu.hitmo-top.com/get/music/20190330/Billie_Eilish_-_bad_guy_63154737.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "47841905",
+            "title": "Ocean Eyes",
+            "artist": "Billie Eilish",
+            "duration": 200,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/b6/3d/b63d79f86b3b8c95cfeb83cc78ad2699/47841905/Billie_Eilish_-_Ocean_Eyes_b128f0d200.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/f81/038/93316.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "67288308",
+            "title": "everything i wanted",
+            "artist": "Billie Eilish",
+            "duration": 245,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/41/a2/41a2a9b9cfd89c4dafb25f14119a75d4/67288308/Billie_Eilish_-_everything_i_wanted_b128f0d245.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/370/030/586903.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "63154742",
+            "title": "my strange addiction",
+            "artist": "Billie Eilish",
+            "duration": 180,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/2d/02/2d021fb65a7191c42d6b7e5d08f3b40b/63154742/Billie_Eilish_-_my_strange_addiction_b128f0d180.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "68398336",
+            "title": "No Time To Die",
+            "artist": "Billie Eilish",
+            "duration": 242,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/ab/ee/abee7178d56b5cbaf1fa02e2317d14d0/68398336/Billie_Eilish_-_No_Time_To_Die_b128f0d242.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/c7e/1ac/596728.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73069340",
+            "title": "Happier Than Ever",
+            "artist": "Billie Eilish",
+            "duration": 299,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/cc/cc/ccccd09bbd444179e167469dbe6a23d4/73069340/Billie_Eilish_-_Happier_Than_Ever_b128f0d299.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/cf9/ca3/674683.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73145413",
+            "title": "NDA",
+            "artist": "Billie Eilish",
+            "duration": 196,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/29/d1/29d1aad3f070f70a0f849f2eef3a2826/73145413/Billie_Eilish_-_NDA_b128f0d196.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/6e6/fcb/683309.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "71606020",
+            "title": "Therefore I Am",
+            "artist": "Billie Eilish",
+            "duration": 174,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/f1/9d/f19deedac26ed247dd5357af3c6c2d03/71606020/Billie_Eilish_-_Therefore_I_Am_b128f0d174.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/19d/a66/632993.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "47841897",
+            "title": "idontwannabeyouanymore",
+            "artist": "Billie Eilish",
+            "duration": 203,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/14/58/1458d9d93dc1f3318d7a3a899a1116ae/47841897/Billie_Eilish_-_idontwannabeyouanymore_b128f0d203.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/58d/39c/219658.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "63154745",
+            "title": "i love you",
+            "artist": "Billie Eilish",
+            "duration": 292,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/4f/c7/4fc7f2411c7b43006f4c4c203e74e87a/63154745/Billie_Eilish_-_i_love_you_b128f0d292.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "63154739",
+            "title": "all the good girls go to hell",
+            "artist": "Billie Eilish",
+            "duration": 169,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/df/81/df8176e5c71c20cf77190dadf552ba19/63154739/Billie_Eilish_-_all_the_good_girls_go_to_hell_b128f0d169.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "63154744",
+            "title": "listen before i go",
+            "artist": "Billie Eilish",
+            "duration": 243,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/7b/65/7b651b9404029f7dc4182828282fbadd/63154744/Billie_Eilish_-_listen_before_i_go_b128f0d243.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "61822134",
+            "title": "bury a friend",
+            "artist": "Billie Eilish",
+            "duration": 193,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/2a/f6/2af636be11cb287d382c7f5f59482497/61822134/Billie_Eilish_-_bury_a_friend_b128f0d193.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73506498",
+            "title": "Happier Than Ever",
+            "artist": "Billie Eilish",
+            "duration": 151,
+            "music_url": "https://eu.hitmo-top.com/get/music/20211218/Billie_Eilish_-_Happier_Than_Ever_73506498.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/039/81a/699041.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "78654764",
+            "title": "BIRDS OF A FEATHER",
+            "artist": "Billie Eilish",
+            "duration": 210,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/d8/5d/d85d467f494d37b65b65663c1a735486/78654764/Billie_Eilish_-_BIRDS_OF_A_FEATHER_b128f0d210.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/02e/a86/857067.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "47841904",
+            "title": "bellyache",
+            "artist": "Billie Eilish",
+            "duration": 179,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/e2/b3/e2b3edbcc062c09f525ea90b181f3681/47841904/Billie_Eilish_-_bellyache_b128f0d179.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/58d/39c/219658.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "78654765",
+            "title": "WILDFLOWER",
+            "artist": "Billie Eilish",
+            "duration": 262,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/f4/1e/f41e6d444a93b84d57ea8954d9d209f9/78654765/Billie_Eilish_-_WILDFLOWER_b128f0d262.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/02e/a86/857067.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "49480515",
+            "title": "Bored",
+            "artist": "Billie Eilish",
+            "duration": 180,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/43/59/4359512d0fce589a6b980882681b506e/49480515/Billie_Eilish_-_Bored_b128f0d180.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/195/751/73969.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "57793092",
+            "title": "you should see me in a crown",
+            "artist": "Billie Eilish",
+            "duration": 181,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/1e/b7/1eb7589041a2ea2727c9794457361320/57793092/Billie_Eilish_-_you_should_see_me_in_a_crown_b128f0d181.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/3c7/b23/378963.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "59785731",
+            "title": "when the party's over",
+            "artist": "Billie Eilish",
+            "duration": 200,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/e3/fe/e3fe88cc53069504d943fbf6e17864d1/59785731/Billie_Eilish_-_when_the_partys_over_b128f0d200.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/67a/abd/416163.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "60487943",
+            "title": "come out and play",
+            "artist": "Billie Eilish",
+            "duration": 210,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/78/13/781366556331f75af3f188378750b7fa/60487943/Billie_Eilish_-_come_out_and_play_b128f0d210.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/714/7a3/434745.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73037733",
+            "title": "NDA",
+            "artist": "Billie Eilish",
+            "duration": 196,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/63/28/6328c4d7dd3cb51b498ce627f7a35856/73037733/Billie_Eilish_-_NDA_b128f0d196.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/dec/9c0/671332.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "47841899",
+            "title": "my boy",
+            "artist": "Billie Eilish",
+            "duration": 170,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/89/7d/897d2fd0d2462037ce7b94dc77ff058e/47841899/Billie_Eilish_-_my_boy_b128f0d170.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/58d/39c/219658.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "47841901",
+            "title": "watch",
+            "artist": "Billie Eilish",
+            "duration": 177,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/d7/50/d75057814c56b9f430e19f10d26eeb92/47841901/Billie_Eilish_-_watch_b128f0d177.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/58d/39c/219658.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "62633996",
+            "title": "wish you were gay",
+            "artist": "Billie Eilish",
+            "duration": 222,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/68/bf/68bfdace136db2b548c308e3040657b0/62633996/Billie_Eilish_-_wish_you_were_gay_b128f0d222.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "72989486",
+            "title": "Lost Cause",
+            "artist": "Billie Eilish",
+            "duration": 213,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/8d/56/8d56e21548ade3a738472845ccbd4838/72989486/Billie_Eilish_-_Lost_Cause_b128f0d213.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/2d4/eab/665141.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73069332",
+            "title": "I Didn't Change My Number",
+            "artist": "Billie Eilish",
+            "duration": 159,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/c4/03/c403947f083ace86484428974fa140b1/73069332/Billie_Eilish_-_I_Didnt_Change_My_Number_b128f0d159.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/cf9/ca3/674683.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "78654763",
+            "title": "CHIHIRO",
+            "artist": "Billie Eilish",
+            "duration": 303,
+            "music_url": "https://eu.hitmo-top.com/get/music/20241203/Billie_Eilish_-_CHIHIRO_78654763.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/02e/a86/857067.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "78654770",
+            "title": "BLUE",
+            "artist": "Billie Eilish",
+            "duration": 343,
+            "music_url": "https://eu.hitmo-top.com/get/music/20241203/Billie_Eilish_-_BLUE_78654770.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/02e/a86/857067.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "51838794",
+            "title": "&burn",
+            "artist": "Vince Staples, Billie Eilish",
+            "duration": 179,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/87/27/872794f7426e1a787c9c14d0a92cd904/51838794/Vince_Staples_Billie_Eilish_-_burn_b128f0d179.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/089/d53/287362.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "63154738",
+            "title": "xanny",
+            "artist": "Billie Eilish",
+            "duration": 244,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/9a/b8/9ab84a869f1e41f9a124004eb08b4225/63154738/Billie_Eilish_-_xanny_b128f0d244.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "63154746",
+            "title": "goodbye",
+            "artist": "Billie Eilish",
+            "duration": 119,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/97/b2/97b2dca640df89f7c3a3dbff916dbb78/63154746/Billie_Eilish_-_goodbye_b128f0d119.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73069334",
+            "title": "Oxytocin",
+            "artist": "Billie Eilish",
+            "duration": 210,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/7a/17/7a177321354b81da593634649d2d899e/73069334/Billie_Eilish_-_Oxytocin_b128f0d210.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/cf9/ca3/674683.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73069337",
+            "title": "Not My Responsibility",
+            "artist": "Billie Eilish",
+            "duration": 228,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/c8/bb/c8bb1efc2e938bc12d747f59721374ca/73069337/Billie_Eilish_-_Not_My_Responsibility_b128f0d228.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/cf9/ca3/674683.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "48410618",
+            "title": "Six Feet Under",
+            "artist": "Billie Eilish",
+            "duration": 189,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/ae/4a/ae4ae5eeea38e5655e8ce1ca26255518/48410618/Billie_Eilish_-_Six_Feet_Under_b128f0d189.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/dd7/f4b/130349.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "70436566",
+            "title": "my future",
+            "artist": "Billie Eilish",
+            "duration": 208,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/60/4c/604cc5d9310851652ce387d253b8abf5/70436566/Billie_Eilish_-_my_future_b128f0d208.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/55c/bf5/617859.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "78654766",
+            "title": "THE GREATEST",
+            "artist": "Billie Eilish",
+            "duration": 294,
+            "music_url": "https://eu.hitmo-top.com/get/music/20241203/Billie_Eilish_-_THE_GREATEST_78654766.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/02e/a86/857067.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "55024741",
+            "title": "bitches broken hearts",
+            "artist": "Billie Eilish",
+            "duration": 177,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/57/2a/572a76669f1cb3e5e52ab0bf87384349/55024741/Billie_Eilish_-_bitches_broken_hearts_b128f0d177.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/918/c1d/322944.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "63154740",
+            "title": "\u30a8\u30a4\u30c8",
+            "artist": "Billie Eilish",
+            "duration": 173,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/63/7e/637ea512adbfef58178086a448173cd9/63154740/Billie_Eilish_-__b128f0d173.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/aca/852/469171.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "72934723",
+            "title": "Your Power",
+            "artist": "Billie Eilish",
+            "duration": 246,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/e9/0f/e90f83d91b0a11de48684ff506d5af4c/72934723/Billie_Eilish_-_Your_Power_b128f0d246.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/c17/216/660602.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73069333",
+            "title": "Billie Bossa Nova",
+            "artist": "Billie Eilish",
+            "duration": 197,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/4a/63/4a63667fe501faeb7e718a7e44c56a7e/73069333/Billie_Eilish_-_Billie_Bossa_Nova_b128f0d197.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/cf9/ca3/674683.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73069336",
+            "title": "Halley's Comet",
+            "artist": "Billie Eilish",
+            "duration": 235,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/bb/1c/bb1ca6f3b630c18069cba16d60f58e02/73069336/Billie_Eilish_-_Halleys_Comet_b128f0d235.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/cf9/ca3/674683.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "73069341",
+            "title": "Male Fantasy",
+            "artist": "Billie Eilish",
+            "duration": 195,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/c7/f3/c7f3ac1284a748dbd74d2e1cab3817d8/73069341/Billie_Eilish_-_Male_Fantasy_b128f0d195.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/cf9/ca3/674683.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "78654767",
+            "title": "L\u2019AMOUR DE MA VIE",
+            "artist": "Billie Eilish",
+            "duration": 334,
+            "music_url": "https://eu.hitmo-top.com/get/music/20241203/Billie_Eilish_-_LAMOUR_DE_MA_VIE_78654767.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/02e/a86/857067.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "78654768",
+            "title": "THE DINER",
+            "artist": "Billie Eilish",
+            "duration": 186,
+            "music_url": "https://eu.hitmo-top.com/get/music/20241203/Billie_Eilish_-_THE_DINER_78654768.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/02e/a86/857067.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "79149300",
+            "title": "BIRDS OF A FEATHER",
+            "artist": "Billie Eilish",
+            "duration": 210,
+            "music_url": "https://eu.hitmo-top.com/get/music/20250419/Billie_Eilish_-_BIRDS_OF_A_FEATHER_79149300.mp3",
+            "album_art": "https://static.hitmcdn.com/cover/78a/dce/132717.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "47841895",
+            "title": "COPYCAT",
+            "artist": "Billie Eilish",
+            "duration": 194,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/98/f0/98f0a26be9a77ab07a42872c48dccd06/47841895/Billie_Eilish_-_COPYCAT_b128f0d194.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/58d/39c/219658.jpg",
+            "is_downloaded": false
+        },
+        {
+            "id": "47841902",
+            "title": "party favor",
+            "artist": "Billie Eilish",
+            "duration": 204,
+            "music_url": "https://eu.hitmo-top.com/get/cuts/9e/06/9e063c25a96d9936e3e8e4810e144739/47841902/Billie_Eilish_-_party_favor_b128f0d204.mp3",
+            "album_art": "https://static.hitmcdn.com/covers/a/58d/39c/219658.jpg",
+            "is_downloaded": false
+        }
+    ]
 }
