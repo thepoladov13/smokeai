@@ -1,48 +1,30 @@
 {
   "songs": [
     {
-      "id": "1",
-      "title": "Test Song ",
-      "artist": "Helix",
-      "duration": 320,
-      "albumArt": null,
-      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "id": "sh1",
+      "title": "SoundHelix Song 1",
+      "artist": "SoundHelix",
+      "duration": 221,
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "album_art": "music.note.list",
       "is_downloaded": false
     },
     {
-      "id": "2",
-      "title": "Morning Vibes",
-      "artist": "Chill Beats",
-      "duration": 195,
-      "albumArt": "https://example.com/images/morning_vibes.jpg",
-      "musicUrl": "https://example.com/music/morning_vibes.mp3",
-      "is_downloaded": false
+      "id": "sh8",
+      "title": "SoundHelix Song 8",
+      "artist": "SoundHelix",
+      "duration": 293,
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "album_art": null,
+      "is_downloaded": true
     },
     {
-      "id": "3",
-      "title": "Summer Nights",
-      "artist": "Lofi Sounds",
-      "duration": 210,
-      "albumArt": "https://example.com/images/summer_nights.jpg",
-      "musicUrl": "https://example.com/music/summer_nights.mp3",
-      "is_downloaded": false
-    },
-    {
-      "id": "4",
-      "title": "Winter Melody",
-      "artist": "Piano Solo",
-      "duration": 180,
-      "albumArt": "https://example.com/images/winter_melody.jpg",
-      "musicUrl": "https://example.com/music/winter_melody.mp3",
-      "is_downloaded": false
-    },
-    {
-      "id": "5",
-      "title": "Spring Rain",
-      "artist": "Ambient Mood",
-      "duration": 228,
-      "albumArt": "https://example.com/images/spring_rain.jpg",
-      "musicUrl": "https://example.com/music/spring_rain.mp3",
+      "id": "sh15",
+      "title": "SoundHelix Song 15",
+      "artist": "SoundHelix",
+      "duration": 248,
+      "music_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "album_art": "waveform.path.ecg",
       "is_downloaded": false
     }
   ]
